@@ -1,2 +1,2 @@
 # FDFlightPlanner
-This was a group project. This taught me the basics of developing programs through lots of collaboration and communication. My role for this project was the frontend developer.
+This was a group project. This taught me the basics of developing programs through lots of collaboration and communication. My role for this project was the frontend developer. We used Dijkstra's algorithm to map the flight data information. The user could add flights, ask for the shortest path between two places, ask for the cheapest path between two places, and etc. The first JUnit tests were made to ensure that our individual parts worked, and then we made more JUnit tests to test integration.
